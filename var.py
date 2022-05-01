@@ -1,0 +1,20 @@
+a=12
+print(type(a),a)
+pi=3.14
+print('PI=',type(pi))
+c='A'
+print(c)
+name='Maroti Haibate'
+print(name)
+_,b,c=1,2,3
+print(b,c)
+e=f=g=100
+print(e,f,g)
+s=w=[1,5,6]
+print(w)
+w=[96,65,85]
+print(s,w)
+a=10
+b=2.1
+c='hi'
+print(type(a),type(b),type(c))
